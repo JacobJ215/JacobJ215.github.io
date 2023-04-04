@@ -5,11 +5,11 @@
 ### Computer Vision Projects
 
 [Optical Character Recognition Web App](https://github.com/JacobJ215/Optical-Character-Recognition-WebApp)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/streamlit-ocr-app.png"/>
 
 ---
 
-### Category Name 2
+### Deep Learning Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -19,6 +19,7 @@
 
 ---
 
+### Machine Learning Projects
 
 
 
