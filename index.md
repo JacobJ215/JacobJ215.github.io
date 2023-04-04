@@ -4,7 +4,7 @@
 
 ### Computer Vision Projects
 
-[Optical Character Recognition Web App](/sample_page)
+[Optical Character Recognition Web App](https://github.com/JacobJ215/Optical-Character-Recognition-WebApp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
