@@ -1,16 +1,7 @@
 title: Jacob Johnson # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  About Me:
-  
-  I am a highly skilled and creative Tableau Certified Data Analyst who is passionate about solving complex problems using machine learning and deep learning techniques.
-  With expertise in SQL, AWS, Tableau, Python, PyTorch, Scikit Learn, Keras, TensorFlow, Computer Vision and NLP. I have worked on 
-  several machine learning projects, including an OCR web application, image classification app, rexommendation engine, and crypto predictor. I hold a Bachelor of Science in Mathematics 
-  with a minor in Physics from The Pennsylvania State University, and a FinTech Certificate from The University of Pennsylvania.
-  
-  <br><br>
-  Second description 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/jacobj2718/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
