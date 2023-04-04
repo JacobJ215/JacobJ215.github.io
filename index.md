@@ -16,17 +16,13 @@ This project is a web application that uses YOLOv5 and InceptionResNetV2 models 
 
 ### Deep Learning Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Comning soon!!!
 
 ---
 
 ### Machine Learning Projects
 
-
+Comning soon!!!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
