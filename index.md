@@ -4,8 +4,13 @@
 
 ### Computer Vision Projects
 
-[Optical Character Recognition Web App](https://github.com/JacobJ215/Optical-Character-Recognition-WebApp)
+[Optical Character Recognition Web App](https://jacobj215.github.io/Optical-Character-Recognition-WebApp/)
+
+
 <img src="images/streamlit-ocr-app.png"/>
+
+
+This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. The web applications were built using streamlit and flask
 
 ---
 
