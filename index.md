@@ -1,7 +1,12 @@
-## Welcome
-About Me:
-  
-Hello my name is Jacob Johnson, I am a highly skilled and creative Tableau Certified Data Analyst who is passionate about solving complex problems using machine learning and deep learning techniques.With expertise in SQL, AWS, Tableau, Python, PyTorch, Scikit Learn, Keras, TensorFlow, Computer Vision and NLP. I have worked onseveral machine learning projects, including an OCR web application, image classification app, recommendation engine, and crypto predictor. I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pennsylvania State University, and a FinTech Certificate from The University of Pennsylvania.
+## Welcome to my portfolio website!
+
+### About Me:
+
+My name is Jacob Johnson, and I'm a highly skilled Tableau Certified Data Analyst with a passion for solving complex problems using machine learning and deep learning techniques. I have extensive experience working with SQL, AWS, Tableau, Python, PyTorch, Scikit Learn, Keras, TensorFlow, Computer Vision, and NLP.
+
+Throughout my career, I've completed several machine learning projects, including an OCR web application, an image classification app, a recommendation engine, and a crypto predictor.
+
+I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pennsylvania State University, and a FinTech Certificate from The University of Pennsylvania.
 
 
 ## Portfolio
