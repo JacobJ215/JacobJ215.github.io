@@ -45,6 +45,12 @@ Comning soon!!!
 [Pokemon Stats Analysis](https://jacobj215.github.io/Pokemon-Stats-Analysis/)
 
 
+<img src="images/Pokemon Analysis Dashboard.png"/>
+
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/pokemon_16807219032990/PokemonAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
 This is a data analysis and machine learning project that focuses on analyzing the stats of Pokemon from the popular Pokemon game series. The project utilizes Python and various data analysis libraries to explore and visualize the data, as well as perform statistical analysis on the Pokemon stats.
 
 More Comning soon!!!
