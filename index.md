@@ -17,7 +17,7 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 [Machine Learning Guide](https://jacobj215.github.io/Machine-Learning-Guide/)
 
 
-***Please not that is guide is still a work in progress**
+***Please note that is guide is still a work in progress**
 
 The idea behind this Intro to Machine Learning Guide was to initially create a list of resources to provide to my students. This eventually morphed into a comprehensive guide that will eventually cover everything from Linear Regression to Neural Networks
 
@@ -43,9 +43,12 @@ Comning soon!!!
 ### Machine Learning Projects
 
 [Pokemon Stats Analysis](https://jacobj215.github.io/Pokemon-Stats-Analysis/)
+
+
 This is a data analysis and machine learning project that focuses on analyzing the stats of Pokemon from the popular Pokemon game series. The project utilizes Python and various data analysis libraries to explore and visualize the data, as well as perform statistical analysis on the Pokemon stats.
 
 More Comning soon!!!
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
