@@ -33,8 +33,9 @@ Comning soon!!!
 
 ### Machine Learning Projects
 
-Comning soon!!!
+[Pokemon Stats Analysis](https://jacobj215.github.io/Pokemon-Stats-Analysis/)
 
+More Comning soon!!!
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
