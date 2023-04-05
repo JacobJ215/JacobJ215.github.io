@@ -11,6 +11,7 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 
 ## Portfolio
 
+---
 
 ### Machine Learning Guide
 [Machine Learning Guide](https://jacobj215.github.io/Machine-Learning-Guide/)
@@ -19,7 +20,7 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 ***Please not that is guide is still a work in progress**
 
 The idea behind this Intro to Machine Learning Guide was to initially create a list of resources to provide to my students. This eventually morphed into a comprehensive guide that will eventually cover everything from Linear Regression to Neural Networks
----
+
 
 ### Computer Vision Projects
 
