@@ -53,6 +53,10 @@ Comning soon!!!
 
 This is a data analysis and machine learning project that focuses on analyzing the stats of Pokemon from the popular Pokemon game series. The project utilizes Python and various data analysis libraries to explore and visualize the data, as well as perform statistical analysis on the Pokemon stats.
 
+
+[View on Google Colab](https://colab.research.google.com/drive/1aE61ea_nG6HwBX7OQRavFV3GiZJdNOHi?usp=sharing)
+
+
 More Comning soon!!!
 
 ---
