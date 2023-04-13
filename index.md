@@ -30,7 +30,7 @@ The idea behind this Intro to Machine Learning Guide was to initially create a l
 This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. The web applications were built using streamlit and flask
 
 
-[Face Mask Detection YOLOv7]([https://jacobj215.github.io/Optical-Character-Recognition-WebApp/](https://github.com/JacobJ215/YOLOv7_Face_Mask_Detection))
+[Face Mask Detection YOLOv7](https://github.com/JacobJ215/YOLOv7_Face_Mask_Detection)
 
 
 <img src="images/face-mask.gif"/>
