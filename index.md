@@ -38,7 +38,10 @@ This project is a web application that uses YOLOv5 and InceptionResNetV2 models 
 
 Object Detection project created to detect face mask using YOLOv7 trained on a custom dataset. All 853 images were manually annotated using labelimg, two labels were used to classify the images, "Mask" and "No Mask". Training was performed over 300 epochs and a batch size of 8 using google colab in the YOLOv7 Training.ipynb file.
 
+
 [View on Google Colab](https://colab.research.google.com/drive/1sHsHq1hfRaJp-EOkqOmEMKkBhORoblu5?usp=sharing)
+
+
 ---
 
 ### Deep Learning Projects
