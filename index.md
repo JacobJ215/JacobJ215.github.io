@@ -24,12 +24,21 @@ The idea behind this Intro to Machine Learning Guide was to initially create a l
 
 [Optical Character Recognition Web App](https://jacobj215.github.io/Optical-Character-Recognition-WebApp/)
 
-
 <img src="images/streamlit-ocr-app.png"/>
 
 
 This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. The web applications were built using streamlit and flask
 
+
+[Face Mask Detection YOLOv7]([https://jacobj215.github.io/Optical-Character-Recognition-WebApp/](https://github.com/JacobJ215/YOLOv7_Face_Mask_Detection))
+
+
+<img src="images/face-mask.gif"/>
+
+
+Object Detection project created to detect face mask using YOLOv7 trained on a custom dataset. All 853 images were manually annotated using labelimg, two labels were used to classify the images, "Mask" and "No Mask". Training was performed over 300 epochs and a batch size of 8 using google colab in the YOLOv7 Training.ipynb file.
+
+[View on Google Colab](https://colab.research.google.com/drive/1sHsHq1hfRaJp-EOkqOmEMKkBhORoblu5?usp=sharing)
 ---
 
 ### Deep Learning Projects
