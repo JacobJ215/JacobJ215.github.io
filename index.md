@@ -76,7 +76,7 @@ This is a data analysis and machine learning project that focuses on analyzing t
 
 
 This repository contains the code for analyzing telecom churn rate. The aim of this project is to predict whether a customer will churn or not based on various features.
-In this project, we analyzed the telecom churn rate using various machine learning algorithms. The best performing model was XGBoost with an accuracy of 81.22%. We also performed SHAP analysis to interpret the XGBoost model and found that MonthlyCharges, Tenure, and InternetService_Fiber optic were the most important features in predicting churn.
+In this project, we analyzed the telecom churn rate using various machine learning algorithms. The best performing model was XGBoost with an accuracy of 81.92%. We also performed SHAP analysis to interpret the XGBoost model and found that MonthlyCharges, Tenure, and InternetService_Fiber optic were the most important features in predicting churn.
 
 
 [View on Google Colab](https://colab.research.google.com/drive/1KHAz6vBfsyrZ6AQDs5YovIRazEb27eK6?usp=sharing)
