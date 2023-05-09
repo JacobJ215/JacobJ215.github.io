@@ -66,6 +66,21 @@ This is a data analysis and machine learning project that focuses on analyzing t
 
 [View on Google Colab](https://colab.research.google.com/drive/1aE61ea_nG6HwBX7OQRavFV3GiZJdNOHi?usp=sharing)
 
+[Telecom Churn Analysis and Prediction](https://jacobj215.github.io/Churn-Analysis-and-Prediction/))
+
+
+<img src="images/Churn Dashboard.png"/>
+
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/ChurnDashboard_16836452983320/ChurnDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+This is a data analysis and machine learning project that focuses on analyzing the stats of Pokemon from the popular Pokemon game series. The project utilizes Python and various data analysis libraries to explore and visualize the data, as well as perform statistical analysis on the Pokemon stats and utilize machine learning to  predict a pokemon's legendary status.
+
+
+[View on Google Colab](https://colab.research.google.com/drive/1KHAz6vBfsyrZ6AQDs5YovIRazEb27eK6?usp=sharing)
+
+
 
 More Comning soon!!!
 
