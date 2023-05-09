@@ -66,7 +66,7 @@ This is a data analysis and machine learning project that focuses on analyzing t
 
 [View on Google Colab](https://colab.research.google.com/drive/1aE61ea_nG6HwBX7OQRavFV3GiZJdNOHi?usp=sharing)
 
-[Telecom Churn Analysis and Prediction](https://jacobj215.github.io/Churn-Analysis-and-Prediction/))
+[Telecom Churn Analysis and Prediction](https://jacobj215.github.io/Churn-Analysis-and-Prediction/)
 
 
 <img src="images/Churn Dashboard.png"/>
