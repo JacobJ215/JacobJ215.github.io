@@ -69,7 +69,7 @@ This is a data analysis and machine learning project that focuses on analyzing t
 [Telecom Churn Analysis and Prediction](https://jacobj215.github.io/Churn-Analysis-and-Prediction/)
 
 
-<img src="images/Churn Dashboard.png"/>
+<img src="images/Churn Dashboard_fixed.png"/>
 
 
 [Link to Tableau Dashboard](https://public.tableau.com/views/ChurnDashboard_16836452983320/ChurnDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
