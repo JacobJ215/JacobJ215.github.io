@@ -52,19 +52,19 @@ Comning soon!!!
 
 ### Machine Learning Projects
 
-[Pokemon Stats Analysis](https://jacobj215.github.io/Pokemon-Stats-Analysis/)
+[Credit Card Default Web App](https://jacobj215.github.io/Credit-Card-Default/)
 
 
-<img src="images/Pokemon Analysis Dashboard.png"/>
+<img src="images/StreamlitApp.png"/>
 
 
-[Link to Tableau Dashboard](https://public.tableau.com/views/pokemon_16807219032990/PokemonAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to Streamlit Web App](https://jacobj215-credit-card-default-app-3ruasg.streamlit.app/)
 
 
-This is a data analysis and machine learning project that focuses on analyzing the stats of Pokemon from the popular Pokemon game series. The project utilizes Python and various data analysis libraries to explore and visualize the data, as well as perform statistical analysis on the Pokemon stats and utilize machine learning to  predict a pokemon's legendary status.
+This project was created to predict credit card defaults based on customer profiles, achieving a high ROC AUC score of 0.7882 The model analyzes borrower information, such as age, income, and financial indicators, to identify customers at risk of defaulting. This project also contains a streamlit web app capable of making predictions given a customer profile. 
 
 
-[View on Google Colab](https://colab.research.google.com/drive/1aE61ea_nG6HwBX7OQRavFV3GiZJdNOHi?usp=sharing)
+[View on Google Colab](https://colab.research.google.com/drive/13cyq6AEXIcH2Of9jQPTi8oqVFZJ4nhtY?usp=sharing)
 
 [Telecom Churn Analysis and Prediction](https://jacobj215.github.io/Churn-Analysis-and-Prediction/)
 
