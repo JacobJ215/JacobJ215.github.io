@@ -11,15 +11,6 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 
 ---
 
-### Machine Learning Guide
-[Machine Learning Guide](https://jacobj215.github.io/Machine-Learning-Guide/)
-
-
-***Please note that this guide is still a work in progress**
-
-The idea behind this Intro to Machine Learning Guide was to initially create a list of resources to provide to my students. This eventually morphed into a comprehensive guide that will eventually cover everything from Linear Regression to Neural Networks
-
-
 ### Computer Vision Projects
 
 [Optical Character Recognition Web App](https://jacobj215.github.io/Optical-Character-Recognition-WebApp/)
@@ -27,7 +18,7 @@ The idea behind this Intro to Machine Learning Guide was to initially create a l
 <img src="images/streamlit-ocr-app.png"/>
 
 
-This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. The web applications were built using streamlit and flask
+This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. Two separate web applications were built using, one using streamlit and the other using flask
 
 
 [Face Mask Detection YOLOv7](https://github.com/JacobJ215/YOLOv7_Face_Mask_Detection)
@@ -36,7 +27,7 @@ This project is a web application that uses YOLOv5 and InceptionResNetV2 models 
 <img src="images/face-mask.gif"/>
 
 
-Object Detection project created to detect face mask using YOLOv7 trained on a custom dataset. All 853 images were manually annotated using labelimg, two labels were used to classify the images, "Mask" and "No Mask". Training was performed over 300 epochs and a batch size of 8 using google colab in the YOLOv7 Training.ipynb file.
+Object Detection project created to detect face masks using YOLOv7 trained on a custom dataset. All 853 images were manually annotated using labelimg, two labels were used to classify the images, "Mask" and "No Mask". The training was performed over 300 epochs and a batch size of 8 using google colab in the YOLOv7 Training.ipynb file.
 
 
 [View on Google Colab](https://colab.research.google.com/drive/1sHsHq1hfRaJp-EOkqOmEMKkBhORoblu5?usp=sharing)
@@ -46,7 +37,7 @@ Object Detection project created to detect face mask using YOLOv7 trained on a c
 
 ### Deep Learning Projects
 
-Comning soon!!!
+Coming soon!!!
 
 ---
 
@@ -76,14 +67,14 @@ This project was created to predict credit card defaults based on customer profi
 
 
 This repository contains the code for analyzing telecom churn rate. The aim of this project is to predict whether a customer will churn or not based on various features.
-In this project, we analyzed the telecom churn rate using various machine learning algorithms. The best performing model was XGBoost with an accuracy of 81.92%. We also performed SHAP analysis to interpret the XGBoost model and found that MonthlyCharges, Tenure, and InternetService_Fiber optic were the most important features in predicting churn.
+In this project, we analyzed the telecom churn rate using various machine learning algorithms. The best-performing model was XGBoost with an accuracy of 81.92%. We also performed SHAP analysis to interpret the XGBoost model and found that MonthlyCharges, Tenure, and InternetService_Fiber optic were the most important features in predicting churn.
 
 
 [View on Google Colab](https://colab.research.google.com/drive/1KHAz6vBfsyrZ6AQDs5YovIRazEb27eK6?usp=sharing)
 
 
 
-More Comning soon!!!
+More Coming soon!!!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
