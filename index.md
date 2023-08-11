@@ -13,7 +13,7 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 
 ### Computer Vision Projects
 
-[Automatic Number Plate Recognition using YOLO-NAS and EasyOCR (Images & Videos)](https://jacobj215.github.io/YOLO-NAS-OCR-WebApp/)/)
+[Automatic Number Plate Recognition using YOLO-NAS and EasyOCR (Images & Videos)](https://jacobj215.github.io/YOLO-NAS-OCR-WebApp/)
 
 <img src="images/streamlit_demo.gif"/>
 
