@@ -13,12 +13,12 @@ I hold a Bachelor of Science in Mathematics with a minor in Physics from The Pen
 
 ### Computer Vision Projects
 
-[Optical Character Recognition Web App](https://jacobj215.github.io/Optical-Character-Recognition-WebApp/)
+[Automatic Number Plate Recognition using YOLO-NAS and EasyOCR (Images & Videos)](https://jacobj215.github.io/YOLO-NAS-OCR-WebApp/)/)
 
-<img src="images/streamlit-ocr-app.png"/>
+<img src="images/streamlit_demo.gif"/>
 
 
-This project is a web application that uses YOLOv5 and InceptionResNetV2 models for license plate detection and Optical Character Recognition (OCR) text extraction. Two separate web applications were built using, one using streamlit and the other using flask
+This project uses YOLO-NAS and EasyOCR to detect license plates and perform Optical Character Recognition (OCR) on them. The project includes both image and video processing capabilities and has been deployed as a Streamlit web application. This is an update to a previous project, [Optical-Character-Recognition-WebApp](https://github.com/JacobJ215/Optical-Character-Recognition-WebApp)
 
 
 [Face Mask Detection YOLOv7](https://github.com/JacobJ215/YOLOv7_Face_Mask_Detection)
