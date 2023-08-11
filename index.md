@@ -1,6 +1,6 @@
 ## Welcome to my portfolio website!
 
-# Please see updated [Portfolio Website](jacobj215.github.io/Portfolio)
+# Please see updated [Updated Portfolio Website](https://jacobj215.github.io/Portfolio)
 
 ### About Me:
 
